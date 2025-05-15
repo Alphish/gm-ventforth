@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_VentforthInstantSubject",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_VentforthInstantSubject",
+  "parent":{
+    "name":"Subjects",
+    "path":"folders/_Packages/Alphish/Ventforth/Subjects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
