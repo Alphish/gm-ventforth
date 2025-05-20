@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ctor_VentforthSubscription",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ctor_VentforthSubscription",
+  "parent":{
+    "name":"Subscriptions",
+    "path":"folders/_Packages/Alphish/Ventforth/Subscriptions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
