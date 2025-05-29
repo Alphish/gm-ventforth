@@ -25,6 +25,7 @@
   "name":"Ventforth",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"ctor_VentforthAggregateSubject","path":"scripts/ctor_VentforthAggregateSubject/ctor_VentforthAggregateSubject.yy",},},
     {"id":{"name":"ctor_VentforthCallbackSubscription","path":"scripts/ctor_VentforthCallbackSubscription/ctor_VentforthCallbackSubscription.yy",},},
     {"id":{"name":"ctor_VentforthException","path":"scripts/ctor_VentforthException/ctor_VentforthException.yy",},},
     {"id":{"name":"ctor_VentforthInstantSubject","path":"scripts/ctor_VentforthInstantSubject/ctor_VentforthInstantSubject.yy",},},

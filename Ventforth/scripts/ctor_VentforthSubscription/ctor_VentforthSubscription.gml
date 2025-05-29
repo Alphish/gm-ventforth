@@ -16,6 +16,13 @@ function VentforthSubscription() constructor {
             unsubscribe();
     }
     
+    static receive_many = function(_events) {
+        for (var i = 0, _count = array_length(_events); i < _count; i++) {
+            var _event = _events[i];
+            receive(_event[$ "args"], _event[$ "sender"]);
+        }
+    }
+    
     static should_handle = function(_args, _sender) {
         return true;
     }
